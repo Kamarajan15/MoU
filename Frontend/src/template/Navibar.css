@@ -1,0 +1,31 @@
+.navbar{
+    background-color: #5E839f;
+    display: flex;
+}
+.logo11{
+    margin-right: 20px;
+}
+.navbar-brand{
+    margin-left:60px ;
+}
+
+.logoutbutton{
+    margin-right: 60px;
+}
+.para22{
+    font-size: 14px;
+    color: aliceblue;
+    align-items: center;      
+    padding-left: 400px;
+    margin-bottom: 0px;
+}
+
+.butie1 {
+    background-color: red !important; 
+    border: none !important; 
+}
+  
+.butie1:hover {
+    background-color: rgb(169, 0, 0) !important; 
+}
+  

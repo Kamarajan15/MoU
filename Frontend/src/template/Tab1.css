@@ -1,0 +1,9 @@
+.mou-table thead th {
+position: sticky;
+top: 0rem;
+background-color:#5E839f; 
+}
+
+.mou-table .tbody .th{
+    background-color: #5E839f !important;
+}

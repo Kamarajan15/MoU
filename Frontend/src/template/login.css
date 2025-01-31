@@ -1,0 +1,72 @@
+.log-main {
+    margin: 0;
+    padding: 0;
+    font-family: "Arial", sans-serif;
+    background-color: #20313E ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .contain {
+    background-color: #5E839f;
+    padding: 20px 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    max-width: 400px;
+    width: 100%;
+  }
+  
+  .img3 {
+    width: 150px; 
+    margin-bottom: 10px;
+  }
+  
+  .log-main h2{
+    margin: 0;
+    color: #30347D !important; 
+    font-weight: bold !important;
+  }
+  
+  .log-main h5 {
+    margin: 0px 0;
+    color: #ffc107 !important; 
+  }
+  .log-main h6{
+    font-size: large;
+    margin: 10px 0;
+    color: #30347D !important;
+  }
+   
+  
+  .google-signin-btn {
+    background-color: #30347D !important; 
+    color: white ;
+    padding: 10px 90px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .google-signin-btn:hover {
+    background-color: #1f224f !important; 
+  }
+  
+  .subtext {
+    font-size: 12px;
+    color: #C7C7C7; 
+    margin-top: 10px;
+  }
+  
